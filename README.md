@@ -8,7 +8,7 @@ What percentage (%) of DNA actually codes for genes?
 A:
 
 In how many years does a human skeleton renew itself?
-A:
+A: 10 years
 
 What is the only organ that can regenerate itself?
 A:
