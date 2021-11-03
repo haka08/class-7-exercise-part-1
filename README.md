@@ -11,4 +11,4 @@ In how many years does a human skeleton renew itself?
 A:
 
 What is the only organ that can regenerate itself?
-A:
+A: The Liver
