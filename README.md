@@ -5,7 +5,7 @@ What dead gene used to allow humans to produce vitamin C within their own bodies
 A: the gulop gene
 
 What percentage (%) of DNA actually codes for genes?
-A:
+A: 3%
 
 In how many years does a human skeleton renew itself?
 A:
