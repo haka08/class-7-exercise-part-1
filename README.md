@@ -2,7 +2,7 @@ What is the name of the enzyme in pineapples responsible for the breakdown of am
 A:
 
 What dead gene used to allow humans to produce vitamin C within their own bodies?
-A:
+A: the gulop gene
 
 What percentage (%) of DNA actually codes for genes?
 A:
